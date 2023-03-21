@@ -42,7 +42,7 @@ export function Navbar() {
 							variant="outline-primary">
 						<img
 								height="100%"
-								src="/icons/cart.svg"
+								src="icons/cart.svg"
 								width="100%"/>
 
 						<div
